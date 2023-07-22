@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "665220799670",
+    "project_id": "amst-lab2-grupo4-ad540",
+    "storage_bucket": "amst-lab2-grupo4-ad540.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665220799670:android:7e058ce1e2ec4bf0c25a17",
+        "android_client_info": {
+          "package_name": "com.example.amst_lab2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665220799670-cfnn7njceok8ghf5u8intu77se4tbu05.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amst_lab2",
+            "certificate_hash": "f52384980253b79c9c5ecda6547c8d25b95f4c98"
+          }
+        },
+        {
+          "client_id": "665220799670-k0n2b87k4i8775qvp9q9j5v42fs79bba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfD0StSZhRDC-miQvwXfoKtk7mbQGIwEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665220799670-k0n2b87k4i8775qvp9q9j5v42fs79bba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
